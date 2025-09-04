@@ -1,6 +1,6 @@
 # TileCostCalculator
 
-**TileCostCalculator** is a simple Python program designed to calculate the total cost of flooring a room.  
+**TileCostCalculator** is a simple C# program designed to calculate the total cost of flooring a room.  
 It was created as part of a learning project for the Rakete Mentoring curriculum.  
 
 ## Features
